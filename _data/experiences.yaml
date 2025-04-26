@@ -1,0 +1,40 @@
+- institution: Cadent TV
+  location: "Richmond, VA, USA"
+  position: Lead Data Engineer
+  group: "Aperture MX"
+  year: "May 2023 - Present"
+  description: "Led data engineering for the Aperture MX Ad Exchange, architecting and implementing a real-time bid throttling system using in-memory data for nanosecond filtering of unprofitable DSP requests. Significantly reduced CPU usage (~10-20%), cut costs, improved stability, and ensured auction completion within 200ms."
+  type: industry
+  institution-url: "https://www.thenewcadent.com/"
+
+- institution: EMX Digital
+  location: "Richmond, VA, USA"
+  position: Director of Data Engineering
+  group: "RTBx & Exchange BI"
+  year: "Jan 2021 - May 2023"
+  description: "Led the design and implementation of Exchange BI, providing unprecedented log-level ad auction transparency to several clients using Druid/Athena/S3. Architected the platform, devised a key 99% pre-aggregation strategy optimizing ingestion and cutting costs 30%, establishing an industry standard for transparent advertising analytics."
+  type: industry
+
+- institution: EMX Digital
+  location: "New York, NY, USA"
+  position: Senior Data Engineer
+  group: "RTBx"
+  year: "Aug 2018 - Dec 2020"
+  description: "Scaled critical ad tech infrastructure. Architected high-throughput RTB data pipelines (100+ servers, TBs/day) using S3/Athena/Redshift, implementing innovative partitioning/file rotation. Designed custom Redis sharding, boosting capacity 3x and cutting CPU 30%. Achieved significant cost savings (50%+) and performance gains for core systems."
+  type: industry
+
+- institution: Centerpoint Media
+  location: "New York, NY, USA"
+  position: "Data Architect"
+  year: Aug 2016 - Aug 2018
+  description: "As the company's first data engineer, I architected and built a multi-terabyte Redshift data warehouse, boosting query performance 100x. Implemented Druid and Kafka for real-time streaming data ingestion and aggregation. Leveraged complex SQL and Athena for efficient data mining and cost-effective long-term storage solutions handling millions of records per minute."
+  type: industry
+
+- institution: Mphasis
+  location: "Pune, India"
+  position: "Delivery Software Engineer"
+  year: Apr 2013 - Jul 2015
+  description: "Modeled and developed databases and data structures, performing complex SQL query writing, modification, and tuning. Developed and deployed various reports (drilldown, ad-hoc) across multiple servers. Created SSIS ETL packages for data synchronization, migration, and loading between heterogeneous sources, supporting incremental and historical loads."
+  type: industry
+  institution-url: "https://www.mphasis.com/home.html"
+

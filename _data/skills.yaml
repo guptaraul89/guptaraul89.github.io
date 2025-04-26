@@ -1,0 +1,58 @@
+- name: OS
+  items:
+    - Linux 
+    - Ubuntu 
+    - Unix Command Line 
+    - Mac OS X 
+    - Windows 
+
+- name: Programming & Databases
+  items:
+    - Python 
+    - SQL 
+    - Java 
+    - PostgreSQL 
+    - MySQL 
+    - MS-SQL Server 
+
+
+- name: Cloud & AWS
+  items:
+    - AWS S3 
+    - AWS Redshift 
+    - AWS Athena 
+    - AWS OpenSearch 
+    - AWS Redis 
+    - AWS EC2 
+    - AWS Lambda 
+    - AWS EMR 
+    - AWS Kinesis 
+
+- name: Data Engineering / Big Data
+  items:
+    - Apache Druid 
+    - Apache Superset 
+    - Apache Airflow 
+    - Apache Kafka 
+    - Elasticsearch 
+    - Kibana 
+    - ELK Stack 
+    - ETL Development 
+    - Data Warehousing 
+    - Stream Processing 
+    - SSIS 
+    - SSRS 
+
+- name: Tools & DevOps
+  items:
+    - Docker 
+    - Git 
+    - GitLab CI/CD 
+
+- name: Data Science / ML (Basic) 
+  items:
+    - K-means Clustering
+    - Regression 
+    - Classification 
+    - Machine Learning Concepts
+

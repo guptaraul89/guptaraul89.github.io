@@ -1,0 +1,22 @@
+
+- degree: "M.S. in Information Systems"
+  specialization: "Databases and Data Analytics"
+  institution: "New Jersey Institute of Technology"
+  location: "Newark, NJ, USA"
+  years: "Aug 2015 —"
+  years-extra: "Dec 2016"
+  institution-url: "https://www.njit.edu/"
+  description: Enterprise Database Management, Advance Database System Design, Data Analytics for Information Systems
+   #- GPA: 3.65/4.0
+   #- Relevant Courses: Enterprise Database Management, Advance Database System Design, Data Analytics for Information Systems
+
+- degree: "B.E. in Information Technology"
+  years: "2007 — 2011"
+  years-extra: "May 2013"
+  institution: "Savitribai Phule Pune University"
+  location: "Pune, India"
+  institution-url: "http://www.unipune.ac.in/"
+  description: Fundamentals of Data Structure, Database and Management System, Advance Database Management
+   #- GPA: 3.45/4.0
+   #- Relevant Courses: Fundamentals of Data Structure, Database and Management System, Advance Database Management
+

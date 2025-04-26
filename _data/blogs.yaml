@@ -1,0 +1,27 @@
+- title: How EMX reduced data pipeline costs by 85% with Amazon Athena
+  month: Feb
+  year: 2021
+  publisher:
+    - url: https://aws.amazon.com/blogs/big-data/how-emx-reduced-data-pipeline-costs-by-85-with-amazon-athena/
+      name: AWS Amazon blog - How EMX reduced data pipeline costs by 85% with Amazon Athena
+
+- title: A Overview of Amazon Redshift
+  month: Jul
+  year: 2023
+  publisher:
+    - url: http://sqlservercentral.com/articles/a-overview-of-amazon-redshift
+      name: sqlservercentral - A Overview of Amazon Redshift
+
+- title: Upserts in Amazon Redshift
+  month: Aug
+  year: 2023
+  publisher:
+    - url: https://www.sqlservercentral.com/articles/upserts-in-amazon-redshift
+      name: sqlservercentral - Upserts in Amazon Redshift
+
+- title: Time-Series Data Analysis with Apache Druid
+  month: Nov
+  year: 2023
+  publisher:
+    - url: https://www.sqlservercentral.com/articles/time-series-data-analysis-with-apache-druid
+      name: sqlservercentral - Time-Series Data Analysis with Apache Druid

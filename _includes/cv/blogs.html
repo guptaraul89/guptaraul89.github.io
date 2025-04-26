@@ -1,0 +1,10 @@
+<div class="cv-left-date">{{ blogs.month }} {{ blogs.year }}</div>
+<!--div>"<a href="{{ press.link }}">{{ press.title }}</a>," {{ press.publisher }}</div-->
+{{ blogs.title }}
+<div class="cv-description">
+{% for item in blogs.publisher %}
+	<a href="{{ item.url }}"> {{ item.name }}</a>{% if forloop.last == false %}, {% endif %}
+{% endfor %}
+</div>
+
+<div class="cv-spacer-small"></div>

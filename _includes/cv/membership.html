@@ -1,0 +1,8 @@
+
+<div class="cv-left-date">
+    {{ include.membership.year }}
+</div>
+<div>
+    <em>{{ include.membership.position }}</em>, {% if include.membership.url %}<a href="{{ include.membership.url }}" target="_blank">{{ include.membership.institution }}</a>{% else %}{{ include.membership.institution }}{% endif %}
+</div>
+<div class="cv-spacer"></div>

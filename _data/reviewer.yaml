@@ -1,0 +1,47 @@
+- venue: (WIP) 6th International Conference on Data Science and Applications
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://scrs.in/conference/icdsa2025
+
+- venue: (WIP) 3rd International Conference on Artificial Intelligence - Theory and Applications
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://scrs.in/conference/aita2025
+
+- venue: Stevie Awards - American Business Awards® (Technology & Sustainability)
+  venue-shorthand: Judge 
+  years:
+    - year: 2025
+      url: "https://stevieawards.com/aba/judges" 
+
+- venue: Globee Awards - Disruptor Awards
+  venue-shorthand: Judge 
+  years:
+    - year: 2025
+      url: "https://globeeawards.com/disruptor/" 
+
+- venue: Globee Awards - Artificial Intelligence Awards
+  venue-shorthand: Judge 
+  years:
+    - year: 2025
+      url: "https://globeeawards.com/artificial-intelligence/" 
+
+- venue: Globee Awards - Disruptor Awards
+  venue-shorthand: Judge 
+  years:
+    - year: 2021
+      url: "https://globeeawards.com/disruptor/" 
+
+- venue: Globee Awards - Golden Bridge Awards
+  venue-shorthand: Judge 
+  years:
+    - year: 2021
+      url: "https://globeeawards.com/golden-bridge-awards/" 
+
+- venue: Globee Awards - IT World Awards
+  venue-shorthand: Judge 
+  years:
+    - year: 2021
+      url: "https://globeeawards.com/disruptor/" 

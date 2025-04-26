@@ -1,0 +1,17 @@
+# Inside _data/articles.yaml
+
+- title: "EMX Digital Enhances Transparency with Exchange BI Platform"
+  #source: "AdExchanger" # Using 'source' instead of 'publisher' maybe? Or use 'publisher' if consistent with other files.
+  #year: 2022
+  #month: "October"
+  #url: "https://www.example.com/article-link"
+  #description: "Article detailing the launch and impact of the Exchange BI platform developed during my leadership."
+
+- title: "Log-Level Data Becomes Standard with EMX BI Tool"
+  #source: "Ad Tech Today"
+  #year: 2023
+  #month: "January"
+  #url: "https://www.anotherexample.com/another-article"
+  # description: "Further coverage on the Exchange BI capabilities."
+
+# Add more entries as needed

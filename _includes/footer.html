@@ -1,0 +1,15 @@
+<footer>
+	<div id="footer-left">
+		{% for link in site.data.social-links %}
+			{% if link.on-footer == true %}
+				<a href=" {{ link.url }} "><i class=" {{ link.footer-icon-style }}"></i></a>
+			{% endif %}
+		{% endfor %}
+		<br>
+		<br>
+		&copy; <time datetime="{{ site.time | date: "%B %-d, %Y" }}">{{ site.time | date: '%Y' }}</time> Rahul Gupta
+	</div>
+	<div id="footer-right">
+		<p style="font-size:smaller">Website template from Fred Hohman</p>
+	</div>
+</footer>

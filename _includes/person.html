@@ -1,0 +1,6 @@
+{% assign data = site.data.people[include.person]%}
+{% assign site_author_name = site.author_name %}
+{% assign site_author_name_star = site.author_name | append: '*' %}
+{% if data.url %}<a href="{{data.url}}">{{include.person}}</a>{% endif %}
+{% if include.person == site.author.name %}<u>{{include.person}}</u>
+{% else %}{{include.person}}{% endif %}

@@ -1,0 +1,37 @@
+title: Rahul Gupta
+tagline: Lead Data Engineer @ Cadent TV
+domain: guptaraul89.github.io
+url: https://guptaraul89.github.io
+description: Rahul Gupta is a Lead Data Engineer at Cadent TV.
+favicon: <i class="fa-solid fa-i"></i> # this is useless. Look at pngs in the `icons/` folder and change
+baseurl: ""
+# gems: [jekyll-paginate]
+# paginate: 5
+
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink: "/:title"
+# relative_permalinks: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+author:
+  name: Rahul Gupta
+  url: https://guptaraul89.github.io/
+  email: guptaraul89@gmail.com
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from

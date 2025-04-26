@@ -1,0 +1,38 @@
+---
+- id: demystifying-rtb
+  authors:
+    - Rahul Gupta
+  title: Demystifying Real-time Bidding (RTB) data flows in AdTech
+  venue: World Journal of Advanced Engineering Technology and Sciences
+  year: 2025
+  type: conference
+  pdf: https://journalwjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-0189.pdf
+
+- id: edge-embedded-systems-adtech
+  authors:
+    - Rahul Gupta
+  title: Real-time bidding optimization in AdTech using edge-embedded systems
+  venue: World Journal of Advanced Research and Reviews
+  year: 2025
+  type: conference
+  pdf: https://journalwjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-1057.pdf
+
+- id: druid-redshift-adtech
+  authors:
+    - Rahul Gupta
+  title: Choosing between druid and redshift - A deep dive into distributed data architectures for AdTech
+  venue: Global Journal of Engineering and Technology Advances
+  year: 2025
+  type: conference
+  pdf: https://gjeta.com/sites/default/files/GJETA-2025-0091.pdf
+
+- id: dual-file-rotation
+  authors:
+    - Rahul Gupta
+  title: Dual File Rotation - A Robust Solution for HighVolume Log Management
+  venue: Publication of the European Centre for Research Training and Development - UK
+  year: 2025
+  type: conference
+  pdf: https://eajournals.org/ijmt/wp-content/uploads/sites/69/2025/04/Dual-File-Rotation.pdf
+
+

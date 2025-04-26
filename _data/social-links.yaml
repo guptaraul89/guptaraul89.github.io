@@ -1,0 +1,28 @@
+- id: home
+  description: "guptaraul89.github.io"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://guptaraul89.github.io"
+  on-homepage: false
+  cv-group: 1
+  on-footer: false
+
+- id: email-personal
+  description: "guptaraul89@gmail.com"
+  color: "#515151"
+  class: "fas fa-envelope-open-text icon"
+  url: "mailto:guptaraul89@gmail.com"
+  on-homepage: true
+  cv-group: 1
+  on-footer: true
+  footer-icon-style: fa-lg fa fa-envelope-open-text footer-icon
+
+- id: linkedin
+  description: "LinkedIn"
+  color: "#515151"
+  class: "fab fa-linkedin-in icon"
+  url: "https://www.linkedin.com/in/guptaraul/"
+  on-homepage: true
+  cv-group: 2
+  on-footer: true
+  footer-icon-style: fa-lg fab fa-linkedin-in footer-icon

@@ -1,0 +1,6 @@
+- venue: Venue 1
+  venue-shorthand: V1
+  years:
+    - year: 2021
+    - year: 2023
+    - year: 2024

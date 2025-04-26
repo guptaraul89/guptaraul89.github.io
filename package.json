@@ -1,0 +1,15 @@
+{
+  "name": "guptaraul89.github.io",
+  "version": "1.0.0",
+  "description": "Rahul Gupta website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Rahul Gupta",
+  "license": "MIT"
+}
