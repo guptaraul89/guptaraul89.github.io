@@ -16,6 +16,12 @@
     - year: 2025
       url: "https://stevieawards.com/aba/judges" 
 
+- venue: Globee Awards - Achievement (American Business)
+  venue-shorthand: Judge 
+  years:
+    - year: 2025
+      url: "https://globeeawards.com/american-business/" 
+
 - venue: Globee Awards - Disruptor Awards
   venue-shorthand: Judge 
   years:
