@@ -107,11 +107,6 @@ jsarr:
 {% include cv/award.html award=award %}
 {% endfor %}
 
-## Articles and Blogs
-
-{% for blogs in site.data.blogs %}
-{% include cv/blogs.html blogs=blogs %}
-{% endfor %}
 
 ## Press Coverage
 
@@ -120,3 +115,8 @@ jsarr:
 {% endfor %}
 
 
+## Articles and Blogs
+
+{% for blogs in site.data.blogs %}
+{% include cv/blogs.html blogs=blogs %}
+{% endfor %}
