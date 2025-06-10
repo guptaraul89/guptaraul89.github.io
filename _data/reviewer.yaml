@@ -1,3 +1,9 @@
+- venue: International Conference on Data Science and Intelligent Network Computing 2025
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://icdsinc2025.nitrr.ac.in/
+
 - venue: Applications of Artificial Intelligence in Computational Information and Communication Technologies
   venue-shorthand: Reviewer
   years:
@@ -9,12 +15,6 @@
   years:
     - year: 2025
       url: https://scrs.in/conference/icdsa2025
-
-- venue: International Conference on Data Science and Intelligent Network Computing 2025
-  venue-shorthand: Reviewer
-  years:
-    - year: 2025
-      url: https://icdsinc2025.nitrr.ac.in/
 
 - venue: 2nd International Conference on Intelligent Algorithms for Computational Intelligence Systems
   venue-shorthand: Reviewer
