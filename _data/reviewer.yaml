@@ -10,6 +10,18 @@
     - year: 2025
       url: https://nsutec-conf.org/
 
+- venue: 8th International Conference on Contemporary Computing and Informatics
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://amity.edu/ic3i2025/
+
+- venue: 8th International Conference on Recent Trends in Image Processing & Pattern Recognition
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://rtip2r-conference.org/2025/
+
 - venue: 6th International Conference on Data Science and Applications 2025
   venue-shorthand: Reviewer
   years:
